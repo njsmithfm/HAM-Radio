@@ -2720,4 +2720,8 @@ footer:has(.footer-frame) {
 }
 
 
-#map { height: 180px; }
+#map { 
+	height: 180px; 
+	border-radius: 20px
+
+}
